@@ -1,4 +1,4 @@
-[Live Demo](https://react-redux-crud-op.netlify.app/)
+
 ```
 # Install dependencies
 npm install
